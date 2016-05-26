@@ -15,6 +15,7 @@ Note that the list only features components we think are particularly relevant f
     + [RS-485](#rs-485)
   * [Data Encoding](#data-encoding)
     + [CBOR](#cbor)
+    + [FlatBuffers](#flatbuffers)
     + [Protocol Buffers](#protocol-buffers)
   * [Data Visualization](#data-visualization)
   * [Device Discovery](#device-discovery)
@@ -103,6 +104,12 @@ This section focuses on data encoding formats that are particularly appropriate 
 | [TinyCBOR](https://github.com/01org/tinycbor) <br> [![GitHub stars](https://img.shields.io/github/stars/01org/tinycbor.svg?style=social&label=Star&maxAge=2592000)]() | TinyCBOR is Intel's industrial strength C/C++ implementation of CBOR, as used in the IoTivity framework. | MIT     | C        |
 
 More at: http://cbor.io/impls.html
+
+### FlatBuffers
+
+|                                                                                                Name                                                                                                |                                                  Description                                                  | License |                    Language                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------|-----------------------------------------------|
+| [Offical libraries from Google](https://github.com/google/flatbuffers) <br> [![GitHub stars](https://img.shields.io/github/stars/google/flatbuffers.svg?style=social&label=Star&maxAge=2592000)]() | FlatBuffers is an efficient cross platform serialization library for games and other memory constrained apps. | ASLv2   | C++, C#, C, Go, Java, JavaScript, PHP, Python |
 
 ### Protocol Buffers
 
