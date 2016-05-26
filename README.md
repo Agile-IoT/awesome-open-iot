@@ -288,6 +288,10 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 
 # Contributing
 
-Contributions are very welcome!
+Contributions are very welcome! In order to be considered an Awesome Open IoT project you need the following:
+* Valid [OSI approved license](https://opensource.org/licenses/alphabetical),
+* Proven record of regular commits,
+* Significant community interest shown through GitHub stars,
+* Project is focused on solving problems that are specific to IoT.
 
-Please have a look at [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) for guidelines.
+Please also have a look at [this contributing guide](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) for some general guidelines.
