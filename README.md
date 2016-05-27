@@ -88,6 +88,7 @@ TBC
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------|----------|
 | [rxtx](https://github.com/rxtx/rxtx) <br> [![GitHub stars](https://img.shields.io/github/stars/rxtx/rxtx.svg?style=social&label=Star&maxAge=2592000)]() | A Java cross platform wrapper library for the serial port                                                      | LGPL                       | Java/C   |
 | [OpenJDK Device/IO](http://openjdk.java.net/projects/dio/)                                                                                              | The Device I/O Project provides a Java-level API for accessing generic device peripherals on embedded devices. | GPL w/ classpath exception | Java/C   |
+| [Java Simple Serial Connector](https://github.com/Fazecast/jSerialComm)     | Platform-independent serial port access for Java                                   | LGPL                       | Java     |
 
 ### RS-485
 
@@ -177,6 +178,7 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 | [pymodbus](https://github.com/bashwork/pymodbus) <br> [![GitHub stars](https://img.shields.io/github/stars/bashwork/pymodbus.svg?style=social&label=Star&maxAge=2592000)]()                                  | A full modbus protocol written in Python                                                                                                                                  | BSD       | Python   |
 | [go modbus](https://github.com/goburrow/modbus) <br> [![GitHub stars](https://img.shields.io/github/stars/goburrow/modbus.svg?style=social&label=Star&maxAge=2592000)]()                                     | Fault-tolerant implementation of modbus protocol in Go                                                                                                                    | BSD-3     | Go       |
 | [node-modbus-stack](https://github.com/TooTallNate/node-modbus-stack) <br> [![GitHub stars](https://img.shields.io/github/stars/TooTallNate/node-modbus-stack.svg?style=social&label=Star&maxAge=2592000)]() | A StreamStack implementation of the MODBUS protocol, for NodeJS.                                                                                                          | MIT       | Node.js  |
+| [j2mod](https://github.com/steveohara/j2mod) | Enhanced Modbus library implemented in the Java programming language                                                                                                          | Apache       | Java  |
 
 ### MQTT
 
