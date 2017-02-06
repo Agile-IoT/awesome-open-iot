@@ -230,6 +230,8 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 | [Eclipse Leshan](https://eclipse.org/leshan) <br> [![GitHub stars](https://img.shields.io/github/stars/eclipse/leshan.svg?style=social&label=Star&maxAge=2592000)]()                                  | Eclipse Leshan is a LWM2M implementation in Java                                              | EPL/EDL | Java     |
 | [lwm2m-node-lib](https://github.com/telefonicaid/lwm2m-node-lib) <br> [![GitHub stars](https://img.shields.io/github/stars/telefonicaid/lwm2m-node-lib.svg?style=social&label=Star&maxAge=2592000)]() | lwm2m-node-lib is a library for building LWM2M applications (client and server) in Javascript | AGPL    | Node.js  |
 | [Eclipse Wakaama](https://eclipse.org/wakaama) <br> [![GitHub stars](https://img.shields.io/github/stars/eclipse/wakaama.svg?style=social&label=Star&maxAge=2592000)]()                               | Eclipse Wakaama is a LWM2M implementation in C                                                | EPL/EDL | C        |
+| [AwaLWM2M](https://github.com/FlowM2M/AwaLWM2M) <br> [![GitHub stars](https://img.shields.io/github/stars/flowm2m/awalwm2m.svg?style=social&label=Star&maxAge=2592000)]()                             | Awa LWM2M is an implementation of the OMA Lightweight M2M protocol in C                       |BSD-3 | C          |
+
 
 ### OMA-DM
 
