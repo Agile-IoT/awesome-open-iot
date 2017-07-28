@@ -18,6 +18,7 @@ Note that the list only features components we think are particularly relevant f
     + [FlatBuffers](#flatbuffers)
     + [Protocol Buffers](#protocol-buffers)
   * [Data Visualization](#data-visualization)
+  * [Data Storage](#data-storage)
   * [Device Discovery](#device-discovery)
     + [mDNS / Bonjour](#mdns--bonjour)
     + [uPNP](#upnp)
@@ -124,6 +125,12 @@ More at: http://cbor.io/impls.html
 
 See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 
+## Data Storage
+
+|                                                                                    Name                                                                                    |                              Description                              | License | Language |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------|----------|
+| [CrateDB](https://github.com/crate/crate) <br> [![GitHub stars](https://img.shields.io/github/stars/crate/crate.svg?style=social&label=Star&maxAge=2592000)]()          | CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.                            | Apache 2.0     | Java       |
+
 ## Device Discovery
 
 ### mDNS / Bonjour
@@ -159,6 +166,7 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 | [Freedomotic](http://www.freedomotic.com) <br> [![GitHub stars](https://img.shields.io/github/stars/freedomotic/freedomotic.svg?style=social&label=Star&maxAge=2592000)]()                                                                                                                                    | Freedomotic is an open source, flexible, secure Internet of Things (IoT) development framework, useful to build and manage modern smart spaces.                                                                                                                     | GPLv2   | Java     |
 | [openHAB](https://github.com/openhab/openhab) <br> [![GitHub stars](https://img.shields.io/github/stars/openhab/openhab.svg?style=social&label=Star&maxAge=2592000)]()       | The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation                                                                                                                             | EPL     | Java     |
 | [Eclipse SmartHome](http://eclipse.org/smarthome) <br> [![GitHub stars](https://img.shields.io/github/stars/eclipse/smarthome.svg?style=social&label=Star&maxAge=2592000)]() | The Eclipse SmartHome project is a framework that allows building smart home solutions that have a strong focus on heterogeneous environments. It provides a uniform access to devices and information and to facilitate different kinds of interactions with them. | EPL     | Java     |
+| [Home Assistant](https://home-assistant.io) <br> [![GitHub stars](https://img.shields.io/github/stars/home-assistant/home-assistant.svg?style=social&label=Star&maxAge=2592000)]() | Home Assistant is a home automation platform running on Python 3. It is able to track and control all devices at home and offer a platform for automating control. | Apache 2.0     | Python 3     |
 
 ## Messaging
 
@@ -187,6 +195,7 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 |                                                                                   Name                                                                                  |                                              Description                                              | License |                          Language                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------|------------------------------------------------------------|
 | [Eclipse Paho](http://www.eclipse.org/paho/)                                                                                                                                | The Eclipse Paho project provides open-source client implementations of MQTT                          | EPL/EDL | Java, Python, Javascript, Go, C, .Net (C#), Embedded C/C++ |
+| [Eclipse Mosquitto](https://mosquitto.org)<br> [![GitHub stars](https://img.shields.io/github/stars/eclipse/mosquitto.svg?style=social&label=Star&maxAge=2592000)]()                                                                                                                             | Eclipse Mosquitto is an open source message broker that implements the MQTT protocol versions 3.1 and 3.1.1. [...] This makes it suitable for "Internet of Things" messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers like the Arduino.                          | EPL/EDL | C, Python |
 | [Moquette](https://github.com/andsel/moquette) <br> [![GitHub stars](https://img.shields.io/github/stars/andsel/moquette.svg?style=social&label=Star&maxAge=2592000)]() | Moquette is a lightweight MQTT broker in Java                                                         | ASLv2   | Java                                                       |
 | [MQTT.js](https://github.com/mqttjs/MQTT.js) <br> [![GitHub stars](https://img.shields.io/github/stars/mqttjs/MQTT.js.svg?style=social&label=Star&maxAge=2592000)]()    | MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser. | MIT     | Javascript                                                 |
 |                                                                                                                                                                         |                                                                                                       |         |                                                            |
