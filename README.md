@@ -293,6 +293,7 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------|----------|
 | [Node-RED](https://github.com/node-red/node-red) <br> [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red.svg?style=social&label=Star&maxAge=2592000)]() | A visual tool for wiring the Internet of Things.                                    | ASL     | Node.js  |
 | [huginn](https://github.com/cantino/huginn) <br> [![GitHub stars](https://img.shields.io/github/stars/cantino/huginn.svg?style=social&label=Star&maxAge=2592000)]()         | Huginn is a system for building agents that perform automated tasks for you online. | MIT     | Ruby     |
+| [Nebula](http://nebula.readthedocs.io) <br> | A docker orchestrator designed to manage IoT devices | GPL v3     | Python     |
 
 # Contributing
 
