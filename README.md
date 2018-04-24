@@ -13,6 +13,8 @@ Note that the list only features components we think are particularly relevant f
     + [NFC](#nfc)
     + [RS-232 / Serial](#rs-232--serial)
     + [RS-485](#rs-485)
+    + [ZigBee](#zigbee)
+    + [Z-Wave](#z-wave)
   * [Data Encoding](#data-encoding)
     + [CBOR](#cbor)
     + [FlatBuffers](#flatbuffers)
@@ -92,6 +94,14 @@ TBC
 | [OpenJDK Device/IO](http://openjdk.java.net/projects/dio/)                                                                                                                                            | The Device I/O Project provides a Java-level API for accessing generic device peripherals on embedded devices. | GPL w/ classpath exception | Java/C   |
 
 ### RS-485
+
+TBC
+
+### ZigBee
+
+TBC
+
+### Z-Wave
 
 TBC
 
