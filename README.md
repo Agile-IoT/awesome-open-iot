@@ -224,6 +224,8 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 | [node-opcua](http://node-opcua.github.io/) <br> [![GitHub stars](https://img.shields.io/github/stars/node-opcua/node-opcua.svg?style=social&label=Star&maxAge=2592000)]()             | An implementation of a OPC UA stack fully written in Javascript and Node.js                                                                           | MIT                           | Node.js  |
 | [OPC UA .NET](http://opcfoundation.github.io/UA-.NET/) <br> [![GitHub stars](https://img.shields.io/github/stars/OPCFoundation/UA-.NET.svg?style=social&label=Star&maxAge=2592000)]() | The official OPC Foundation OPC UA .NET Stack and sample applications.                                                                                | GPLv2                         | .Net     |
 | [open62541](http://open62541.org/) <br> [![GitHub stars](https://img.shields.io/github/stars/open62541/open62541.svg?style=social&label=Star&maxAge=2592000)]()                       | An open source and free C (C99) OPC UA stack licensed                                                                                                 | MPLv2 | C        |
+| [UACL CS](https://github.com/FalkoWiese/uacl_cs) <br> [![GitHub stars]]() | Client, Server (Wrapper for the Unified Automation SDK) | LGPL | C# |
+| [UACL CS](https://github.com/FalkoWiese/uacl_cpp) <br> [![GitHub stars]]() | Server (Wrapper for the Unified Automation SDK) | LGPL | C++ |
 
 ## Operating Systems
 
