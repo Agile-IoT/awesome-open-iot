@@ -140,6 +140,7 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 |                                                                                    Name                                                                                    |                              Description                              | License | Language |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------|----------|
 | [CrateDB](https://github.com/crate/crate) <br> [![GitHub stars](https://img.shields.io/github/stars/crate/crate.svg?style=social&label=Star&maxAge=2592000)]()          | CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.                            | Apache 2.0     | Java       |
+| [Kuzzle IoT](https://github.com/kuzzleio/kuzzle) <br> [![GitHub stars](https://img.shields.io/github/stars/kuzzleio/kuzzle.svg?style=social&label=Star&maxAge=2592000)]()          | Ready-to-use and scalable backend for your application with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more     | Apache 2.0 | Node.js       |
 
 ## Device Discovery
 
