@@ -188,6 +188,7 @@ See [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 | [microcoap](https://github.com/1248/microcoap) <br> [![GitHub stars](https://img.shields.io/github/stars/1248/microcoap.svg?style=social&label=Star&maxAge=2592000)]()         | A small CoAP implementation for microcontrollers                                          | MIT     | C (Arduino) |
 | [gocoap](https://github.com/dustin/go-coap) <br> [![GitHub stars](https://img.shields.io/github/stars/dustin/go-coap.svg?style=social&label=Star&maxAge=2592000)]()            | Implementation of CoAP in go                                                              | MIT     | Go          |
 | [node-coap](https://github.com/mcollina/node-coap) <br> [![GitHub stars](https://img.shields.io/github/stars/mcollina/node-coap.svg?style=social&label=Star&maxAge=2592000)]() | node-coap is a Node.js client and server library for CoAP modelled after the http module. | MIT     | Node.js     |
+| [java-coap](https://github.com/open-coap/java-coap) <br> [![GitHub stars](https://img.shields.io/github/stars/open-coap/java-coap.svg?style=social&label=Star&maxAge=2592000)]() | Full CoAP spec implementation in java. (It is a fork with lots of improvements)         | ASLv2   | Java        |
 
 ### Modbus
 
